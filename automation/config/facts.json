@@ -1,0 +1,5 @@
+[
+  {"id":"risk", "text":"Trading involves risk. Position sizing and predefined loss limits help structure risk management; they cannot eliminate losses.", "source":"STOXRA editorial baseline; owner must approve before live use", "review_until":"2027-01-01"},
+  {"id":"practice", "text":"Paper trading simulates trading without placing real-money orders. Simulated outcomes may differ from live execution.", "source":"STOXRA editorial baseline; owner must approve before live use", "review_until":"2027-01-01"},
+  {"id":"process", "text":"A written trading plan and journal can help traders review their decisions and maintain discipline. AI explanations and algorithmic rules require human review. Backtests cannot guarantee future performance.", "source":"STOXRA editorial baseline; owner must approve before live use", "review_until":"2027-01-01"}
+]

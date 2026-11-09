@@ -1,3 +1,5 @@
+> **STOXRA daily publishing worker:** see [automation/README.md](automation/README.md) for the guarded content-generation, template graphics and official Instagram publishing pipeline. Live mode is disabled by default.
+
 <p align="center">
   <img src="https://img.shields.io/github/stars/ayuuxh2/insta-p8?style=for-the-badge&color=facc15" alt="GitHub stars" />
   <img src="https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js" alt="Next.js" />
