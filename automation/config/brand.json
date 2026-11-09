@@ -1,0 +1,5 @@
+{
+  "logo": "automation/assets/stoxra-official.png",
+  "font": "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+  "colors": {"purple": "#6332A0", "white": "#FAFAFA", "black": "#17151C", "orange": "#E87934"}
+}

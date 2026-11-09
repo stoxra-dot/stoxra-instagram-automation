@@ -1,0 +1,10 @@
+{
+  "topic": "risk management",
+  "caption": "Decide your limits before you enter a trade. A written plan helps you review decisions calmly. Risk management cannot eliminate losses. What belongs in your trading checklist?",
+  "hashtags": ["#RiskManagement", "#TradingEducation", "#TradingPsychology", "#STOXRA"],
+  "fact_ids": ["risk", "process"],
+  "slides": [
+    {"title": "Plan the risk first.", "body": "Define your position size and loss limit before entering a trade.", "alt_text": "Minimal STOXRA education card on a white background with purple branding and an orange accent. Plan the risk first: define position size and loss limit before entering a trade."},
+    {"title": "Review the decision.", "body": "Keep a journal. Review the process behind each trade, including the losses.", "alt_text": "Second STOXRA card reads: Review the decision. Keep a journal and review the process behind each trade, including losses."}
+  ]
+}
